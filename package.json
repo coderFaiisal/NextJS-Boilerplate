@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "nextjs-boilerplate",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,8 @@
     "prettier:fix": "prettier --write .",
     "lint-prettier": "npm run lint:check && npm run prettier:check"
   },
+  "author": "Azizur Rahman Faisal",
+  "license": "ISC",
   "lint-staged": {
     "*.{ts,tsx,css,md}": "npm run lint-prettier"
   },
