@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Next JS 14+, TailwindCSS and TypeScript
+# Boilerplate and Starter Pack for Next JS 14+, TailwindCSS and TypeScript
 
 🚀 Boilerplate and Starter for Next.js with App Router support, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Husky, Lint-Staged, and VSCode.
 
